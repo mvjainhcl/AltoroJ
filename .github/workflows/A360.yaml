@@ -12,5 +12,5 @@ jobs:
         with:
           asoc_key: ${{secrets.A360_KEY}}
           asoc_secret: ${{secrets.A360_SECRET}}
-          service_url: ${{secrets.SERVICE_URL}}
+          service_url: 10.115.157.78
           application_id: 168684fe-00ac-4dc5-8bc8-caf9a1fa45c8
